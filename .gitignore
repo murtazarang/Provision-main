@@ -1,4 +1,4 @@
-bin/
-.dub/
-dub.selections.json
-cmake-build-*
+#bin/
+#.dub/
+#dub.selections.json
+#cmake-build-*
